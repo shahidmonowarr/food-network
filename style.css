@@ -11,6 +11,9 @@ h1{
     display: flex;
     margin-bottom: 150px;
 }
+#space{
+    padding-top: 100px;
+}
 .half-width{ 
     padding-left: 5%;
     text-align: justify;
@@ -20,7 +23,14 @@ h1{
     margin-bottom: 40px;
 }
 .half-width img{
-    width: 80%;
+    width: 85%;
+}
+.second-container{
+    padding-right: 20%;
+    background-image: url(food-network-main/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+
 }
 .link-up{
     text-decoration: none;
