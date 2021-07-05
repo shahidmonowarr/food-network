@@ -1,0 +1,36 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    line-height: 0.7;
+    
+}
+.first-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{ 
+    padding-left: 5%;
+    text-align: justify;
+    width: 50%;
+}
+.half-width p{
+    margin-bottom: 40px;
+}
+.half-width img{
+    width: 80%;
+}
+.link-up{
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(90deg, #f5b452 0%, #d82e10 50%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+span{
+    color: orange;
+}
