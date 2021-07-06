@@ -4,8 +4,12 @@ body{
 }
 h1{
     font-size: 50px;
+    font-weight: 700;
     line-height: 0.7;
     
+}
+h2{
+    font-size: 40px;
 }
 span{
     color: orange;
@@ -13,6 +17,7 @@ span{
 .flex-container{
     display: flex;
     margin-bottom: 150px;
+    padding-left: 3%;
 }
 #space{
     padding-top: 100px;
@@ -29,10 +34,10 @@ span{
     width: 85%;
 }
 .second-container{
-    padding-right: 20%;
+    
     background-image: url(food-network-main/images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    width: 100%;
+    width: auto;
 
 }
 #padding{
@@ -51,6 +56,10 @@ span{
 .recipie-area{
     margin: 10px 5%;
 
+}
+.recipie-top{
+    padding: 0px 30px 15px 30px;
+    text-align: center;
 }
 .recipie-width{
     
