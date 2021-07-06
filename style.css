@@ -35,12 +35,21 @@ span{
 }
 .second-container{
     
-    background-image: url(food-network-main/images/shapes/Frame\ 59.jpg);
+    background-image: url(food-network-main/images/shapes/7.png);
     background-repeat: no-repeat;
     width: auto;
 
 }
+#person{
+    padding-top: 5%;
+    padding-left: 20%;
+    width: 45%;
+}
+#pera{
+    padding-right: 20%;
+}
 #padding{
+    padding-top: 50px;
     padding-right: 60px;
 }
 .link-up{
