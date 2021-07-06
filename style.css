@@ -84,3 +84,14 @@ span{
     display: block;
     width: 100%;
 }
+.foot{
+    padding-top: 1.5%;
+    background-color: black;
+    color: white;
+}
+#gray{
+    color: rgb(83, 81, 81);
+}
+#simple{
+    font-weight:200;
+}
