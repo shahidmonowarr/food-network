@@ -95,3 +95,20 @@ span{
 #simple{
     font-weight:200;
 }
+.media{
+    padding: 20px 70px;
+}
+.media-container{
+
+    width: 100%;
+    
+}
+.media-box{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 150px;
+    padding: 10px 130px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
