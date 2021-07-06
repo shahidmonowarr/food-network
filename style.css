@@ -7,7 +7,10 @@ h1{
     line-height: 0.7;
     
 }
-.first-container{
+span{
+    color: orange;
+}
+.flex-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -32,6 +35,9 @@ h1{
     width: 100%;
 
 }
+#padding{
+    padding-right: 60px;
+}
 .link-up{
     text-decoration: none;
     font-weight: 700;
@@ -41,6 +47,21 @@ h1{
     border-radius: 20px;
     
 }
-span{
-    color: orange;
+
+.recipie-area{
+
+}
+.recipie-width{
+    
+    text-align: justify;
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
+.recipie-width img{
+    display: block;
+    width: 100%;
 }
